@@ -1,7 +1,7 @@
 # Bikesharing
 Using tableau to analyze bikeshare data in nyc
 
-# Overview of our Analysis
+# Part 1 - Overview of Analysis
 
 The purpose of this project is to help our client determine whether or not the bike rental business is worth investing in for a different city. One of the key factors we must examine is trip duration. Discovering how long the trips are in the month of August will give us a good idea of the following: 
 
@@ -11,7 +11,7 @@ The purpose of this project is to help our client determine whether or not the b
 
 Before any of this can take place, there needs to be a change made in the csv to the column that records the trip duration in seconds to hours, minutes and seconds. Once this was completed, the new CSV file was uploaded into tableau with the converted tripduration column.
 
-# Results:
+# Part 2 - Results
 
 7 different visulizations were creating within Tableu using the total number of trips, the types of users and the trip duration. Here's what was found:
 
@@ -27,6 +27,6 @@ Before any of this can take place, there needs to be a change made in the csv to
 
 
 
-# Summary
+# Part 3 - Summary
 
 Upon completion of the visualizations in tableau, one differential point was that Thursday is the most popular day for bike riding. Based on our findings, it will be beneficial for our client to embark on the bikeshare business in a different city. Whether consumers are biking as a means of transit or merely biking for pleasure, there's a great amount of users who will buy in. Although there is enough evidence to convince our customer to do this (despite only looking at one month), there are other visulizations that can further back this claim. Data from the colder months in the city can also be examined to see how many riders are recorded in November/December. Completing such an analysis will allow the business owner to prepare for those months. Another visualization that would give additional intell is average distance between customers home location and the bike renting location, which would allow bike rental locations to be strategically placed.
