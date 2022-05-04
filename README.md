@@ -21,7 +21,7 @@ Before any of this can take place, there needs to be a change made in the csv to
 
 * There is a peak number of users who rent their bike for 5-6 hour trips.
 
-* The largest number of individuals happen to be male, the women users dont have as large of a peak and unkown users do not have a peak for tripduration.
+* The largest number of individuals happen to be male, as women users have a much smaller peak and unkown users do not have a peak for tripduration.
 
 * If you look at my trips per weekday(by hour) you can see that Thursday between 5pm-7pm is the most popular time to ride a bike.
 
